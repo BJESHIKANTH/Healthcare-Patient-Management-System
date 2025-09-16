@@ -12,8 +12,6 @@ We provide security updates for the latest version of the application available 
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please report it to us by **emailing raunakkumarjha233@gmail.com**.
-
 **Please do not report security vulnerabilities through public GitHub issues.**
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
