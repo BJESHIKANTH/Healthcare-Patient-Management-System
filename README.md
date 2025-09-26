@@ -194,20 +194,4 @@ This project demonstrates a full-stack solution for healthcare systems with secu
 
 ---
 
-## 📬 Contact
-
-Feel free to connect:
-
-- **LinkedIn**: [linkedin.com/in/raunak0400](https://www.linkedin.com/in/raunak0400)
-- **GitHub**: [github.com/raunak0400](https://github.com/raunak0400)
-- **Email**: raunakkumarjha233@gmail.com
-
-## 🤝 Acknowledgments  
-Special thanks to:  
-- The professors for their guidance  
-- The open-source community for inspiration  
-- Project collaborators for their valuable input  
-
----  
-**Created with ❤️ by a passionate programmer**  
-**RAUNAK KUMAR JHA**
+#
