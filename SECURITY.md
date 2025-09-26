@@ -12,7 +12,7 @@ We provide security updates for the latest version of the application available 
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please report it to us by **emailing raunakkumarjha233@gmail.com**.
+If you discover a security vulnerability, please report it to us by **emailing bjeshikanth@gmail.com**.
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
